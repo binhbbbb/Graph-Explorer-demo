@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/graph-explorer)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/graph-explorer.svg)](https://vaadin.com/directory/component/graph-explorer)
+
 # Graph Explorer demo repository
 Repository containing demos for the [Graph Explorer](https://github.com/vaadin/Graph-Explorer) add-on for 
 [Vaadin](https://vaadin.com/).
